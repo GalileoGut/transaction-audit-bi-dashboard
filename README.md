@@ -9,7 +9,7 @@ Dashboard desarrollado para auditoría y análisis de transacciones en la plataf
 ---
 
 ## 📝 Descripción del Proyecto
-Dashboard de Business Intelligence enfocado en Auditoría Financiera y Gestión de Riesgo Corporativo. La solución centraliza y analiza los flujos de dinero de múltiples plataformas de pago (ERP, MODO, RappiPay) para monitorear desvíos de presupuesto, controlar gastos y detectar anomalías operativas.
+Dashboard de Business Intelligence enfocado en Auditoría Financiera y Gestión de Riesgo Corporativo. La solución centraliza y analiza los flujos de dinero de múltiples plataformas de pago (ERP, MODO, RappiPay) para monitorear desvíos de presupuesto, controlar gastos y detectar anomalías.
 
 ---
 
