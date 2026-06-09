@@ -38,6 +38,9 @@ Para sanear el flujo financiero y armar las métricas del reporte, se modelaron 
 Componentes Clave del Reporte
 
 *KPis Principales:** Visualización directa del porcentaje de riesgo operacional (16%) y alertas activas.
+
 *Suma de Monto por Sistema de Origen:** Análisis del volumen de dinero que mueve cada pasarela, liderado por el ERP.
+
 *Evolución Temporal:** Gráfico de líneas para auditar la tendencia del gasto corriente y detectar picos inusuales.
+
 *Ranking de Proveedores de Riesgo:** Distribución de anomalías concentrada en plataformas
