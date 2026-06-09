@@ -1,7 +1,7 @@
 # Transaction-Audit-Dashboard
-Dashboard desarrollado para auditoría y análisis de transacciones en la plataforma de Rappi, identificando patrones de riesgo y anomalías en operaciones.
 <img width="600" height="300" alt="imagen" src="https://github.com/user-attachments/assets/1994af8a-24cf-4137-a106-82e027d8e83b" />
 
+Dashboard desarrollado para auditoría y análisis de transacciones en la plataforma de Rappi, identificando patrones de riesgo y anomalías en operaciones.
 
 > 🚀 **[CLICK ACÁ PARA ACCEDER AL DASHBOARD INTERACTIVO](https://app.powerbi.com/onedrive/open?pbi_source=ODSPViewer&driveId=b!wF6ElwUz0UWkESkGPuSdBNWYtEuF7QFLnu4yZYCLF6l8rbnh0SxoTI66SYeviN4k&itemId=01XBJVBUTVGRSFHQLYSFA2NHHH3HF37TZS)**
 
